@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Quicksand", "Noto Sans TC", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "Courier New", monospace;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    color: #3b4252;
+  }
+}

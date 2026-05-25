@@ -1,0 +1,6 @@
+{
+  "name": "Cinnamoroll Quiz Game",
+  "description": "An interactive, Cinnamoroll-themed multiple-choice question (MCQ) quiz game with local backend question management, scoring, and instant explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
